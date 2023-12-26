@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hello! 🦭
+My name is Adam Jones and I am a college student!
+- I'm currently studying CS and taking classes with Google!
+- I've recently started working with Arduino circuits!
+- I enjoy learning and post any projects I make here!
 <!--
 **unixthug/unixthug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
